@@ -1,0 +1,12 @@
+.totalPrice {
+  margin: 0 auto;
+  padding-top: 20px;
+}
+.fruitsList {
+  width: fit-content;
+  margin: 20px auto;
+  padding-left: 0;
+}
+.fruitsItem {
+  width: fit-content;
+}
